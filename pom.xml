@@ -23,6 +23,9 @@
         <module>coloud_config_server3344</module>
         <module>cloud_config_client3355</module>
         <module>cloud_config_client3366</module>
+        <module>cloud_stream_rabbitmq_provider8801</module>
+        <module>cloud_stream_rabbitmq_consumer8802</module>
+        <module>cloutstream_rabbitmq_consumer8803</module>
     </modules>
     <packaging>pom</packaging>
 

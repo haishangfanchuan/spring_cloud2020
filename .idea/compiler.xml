@@ -21,6 +21,9 @@
         <module name="cloud_provider_payment8001" />
         <module name="cloud_provider_payment8002" />
         <module name="cloud_provider_payment8004" />
+        <module name="cloud_stream_rabbitmq_consumer8802" />
+        <module name="cloud_stream_rabbitmq_provider8801" />
+        <module name="cloutstream_rabbitmq_consumer8803" />
         <module name="coloud_config_server3344" />
         <module name="test" />
       </profile>
@@ -41,6 +44,10 @@
       <module name="cloud_provider_payment8001" target="1.8" />
       <module name="cloud_provider_payment8002" target="1.8" />
       <module name="cloud_provider_payment8004" target="1.8" />
+      <module name="cloud_stream_rabbitmq_consumer8802" target="1.8" />
+      <module name="cloud_stream_rabbitmq_consumer8803" target="1.8" />
+      <module name="cloud_stream_rabbitmq_provider8801" target="1.8" />
+      <module name="cloutstream_rabbitmq_consumer8803" target="1.8" />
       <module name="coloud_config_server3344" target="1.8" />
       <module name="springcloud2020" target="1.8" />
       <module name="test" target="1.8" />

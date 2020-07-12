@@ -16,6 +16,11 @@
     <file url="file://$PROJECT_DIR$/cloud_provider_payment8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_provider_payment8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_provider_payment8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_rabbitmq_consumer8802" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_rabbitmq_consumer8803" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_rabbitmq_consumer8803" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_stream_rabbitmq_provider8801" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloutstream_rabbitmq_consumer8803" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/coloud_config_server3344" charset="UTF-8" />
   </component>
 </project>
