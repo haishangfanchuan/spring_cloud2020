@@ -10,14 +10,19 @@ spring:
       name: config    ####“-”前面的内容 配置文件名称 eg:config-test.yml
       profile: test    ####“-”后面的内容 配置文件后缀
       uri: http://localhost:3344
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka
-
-##########暴露服务端口
+####rabitMq相关配置
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+####rabbitMQ相关配置，暴露BUS刷新配置的端口
 management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: 'bus-refresh'
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud_api_comment/cloud_api_comment.iml" filepath="$PROJECT_DIR$/cloud_api_comment/cloud_api_comment.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_config_client3355/cloud_config_client3355.iml" filepath="$PROJECT_DIR$/cloud_config_client3355/cloud_config_client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_config_client3366/cloud_config_client3366.iml" filepath="$PROJECT_DIR$/cloud_config_client3366/cloud_config_client3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_openFeign_order8000/cloud_consumer_openFeign_order8000.iml" filepath="$PROJECT_DIR$/cloud_consumer_openFeign_order8000/cloud_consumer_openFeign_order8000.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_openfeign_hystrix_order8000/cloud_consumer_openfeign_hystrix_order8000.iml" filepath="$PROJECT_DIR$/cloud_consumer_openfeign_hystrix_order8000/cloud_consumer_openfeign_hystrix_order8000.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_order80/cloud_consumer_order80.iml" filepath="$PROJECT_DIR$/cloud_consumer_order80/cloud_consumer_order80.iml" />

@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud_api_comment" />
         <module name="cloud_config_client3355" />
+        <module name="cloud_config_client3366" />
         <module name="cloud_consumer_openfeign_hystrix_order8000" />
         <module name="cloud_consumer_openFeign_order8000" />
         <module name="cloud_consumer_order80" />
@@ -27,6 +28,7 @@
     <bytecodeTargetLevel>
       <module name="cloud_api_comment" target="1.8" />
       <module name="cloud_config_client3355" target="1.8" />
+      <module name="cloud_config_client3366" target="1.8" />
       <module name="cloud_consumer_openfeign_hystrix_order8000" target="1.8" />
       <module name="cloud_consumer_openFeign_order8000" target="1.8" />
       <module name="cloud_consumer_order80" target="1.8" />
