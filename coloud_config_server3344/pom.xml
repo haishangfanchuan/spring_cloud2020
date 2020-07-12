@@ -12,6 +12,7 @@
     <artifactId>coloud_config_server3344</artifactId>
 
     <dependencies>
+        <!--支持RabbitMQ消息总线机制-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-bus-amqp</artifactId>
