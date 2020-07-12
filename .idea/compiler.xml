@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud_api_comment" />
+        <module name="cloud_config_client3355" />
+        <module name="cloud_consumer_openfeign_hystrix_order8000" />
+        <module name="cloud_consumer_openFeign_order8000" />
+        <module name="cloud_consumer_order80" />
+        <module name="cloud_eureka_server7001" />
+        <module name="cloud_eureka_server7002" />
+        <module name="cloud_gateway_gateway9527" />
+        <module name="cloud_hystrix_dashboard9001" />
+        <module name="cloud_provider_hystrix_payment8001" />
+        <module name="cloud_provider_payment8001" />
+        <module name="cloud_provider_payment8002" />
+        <module name="cloud_provider_payment8004" />
+        <module name="coloud_config_server3344" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud_api_comment" target="1.8" />
+      <module name="cloud_config_client3355" target="1.8" />
+      <module name="cloud_consumer_openfeign_hystrix_order8000" target="1.8" />
+      <module name="cloud_consumer_openFeign_order8000" target="1.8" />
+      <module name="cloud_consumer_order80" target="1.8" />
+      <module name="cloud_eureka_server7001" target="1.8" />
+      <module name="cloud_eureka_server7002" target="1.8" />
+      <module name="cloud_gateway_gateway9527" target="1.8" />
+      <module name="cloud_hystrix_dashboard9001" target="1.8" />
+      <module name="cloud_provider_hystrix_payment8001" target="1.8" />
+      <module name="cloud_provider_hystrix_server8001" target="1.5" />
+      <module name="cloud_provider_payment8001" target="1.8" />
+      <module name="cloud_provider_payment8002" target="1.8" />
+      <module name="cloud_provider_payment8004" target="1.8" />
+      <module name="coloud_config_server3344" target="1.8" />
+      <module name="springcloud2020" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

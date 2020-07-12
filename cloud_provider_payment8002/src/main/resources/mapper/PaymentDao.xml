@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.theonecyl.springcloud.dao.IPaymentDao">
+
+    <resultMap id="payment" type="top.theonecyl.springcloud.entity.Payment">
+        <result column="id" property="id" jdbcType="BIGINT"></result>
+        <result column="serial"   property="serial" jdbcType="VARCHAR"></result>
+    </resultMap>
+
+
+    <!--添加支付模块-->
+    <insert id="addPayment" parameterType="top.theonecyl.springcloud.entity.Payment" keyProperty="id" useGeneratedKeys="true">
+        INSERT into db_payment(serial) VALUES (#{serial});
+    </insert>
+
+    <!--根据id查询-->
+    <select id="selectPaymentById" parameterType="long" resultType="top.theonecyl.springcloud.entity.Payment">
+        SELECT * from db_payment WHERE id = #{id};
+    </select>
+
+</mapper>

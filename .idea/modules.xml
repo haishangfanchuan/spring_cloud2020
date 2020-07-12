@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud_api_comment/cloud_api_comment.iml" filepath="$PROJECT_DIR$/cloud_api_comment/cloud_api_comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_config_client3355/cloud_config_client3355.iml" filepath="$PROJECT_DIR$/cloud_config_client3355/cloud_config_client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_consumer_openFeign_order8000/cloud_consumer_openFeign_order8000.iml" filepath="$PROJECT_DIR$/cloud_consumer_openFeign_order8000/cloud_consumer_openFeign_order8000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_consumer_openfeign_hystrix_order8000/cloud_consumer_openfeign_hystrix_order8000.iml" filepath="$PROJECT_DIR$/cloud_consumer_openfeign_hystrix_order8000/cloud_consumer_openfeign_hystrix_order8000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_consumer_order80/cloud_consumer_order80.iml" filepath="$PROJECT_DIR$/cloud_consumer_order80/cloud_consumer_order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_eureka_server7001/cloud_eureka_server7001.iml" filepath="$PROJECT_DIR$/cloud_eureka_server7001/cloud_eureka_server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_eureka_server7002/cloud_eureka_server7002.iml" filepath="$PROJECT_DIR$/cloud_eureka_server7002/cloud_eureka_server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_gateway_gateway9527/cloud_gateway_gateway9527.iml" filepath="$PROJECT_DIR$/cloud_gateway_gateway9527/cloud_gateway_gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_hystrix_dashboard9001/cloud_hystrix_dashboard9001.iml" filepath="$PROJECT_DIR$/cloud_hystrix_dashboard9001/cloud_hystrix_dashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_hystrix_payment8001/cloud_provider_hystrix_payment8001.iml" filepath="$PROJECT_DIR$/cloud_provider_hystrix_payment8001/cloud_provider_hystrix_payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_payment8001/cloud_provider_payment8001.iml" filepath="$PROJECT_DIR$/cloud_provider_payment8001/cloud_provider_payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_payment8002/cloud_provider_payment8002.iml" filepath="$PROJECT_DIR$/cloud_provider_payment8002/cloud_provider_payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_payment8004/cloud_provider_payment8004.iml" filepath="$PROJECT_DIR$/cloud_provider_payment8004/cloud_provider_payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coloud_config_server3344/coloud_config_server3344.iml" filepath="$PROJECT_DIR$/coloud_config_server3344/coloud_config_server3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2020.iml" filepath="$PROJECT_DIR$/springcloud2020.iml" />
+    </modules>
+  </component>
+</project>

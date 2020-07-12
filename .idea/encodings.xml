@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_api_comment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_config_client3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_consumer_openFeign_order8000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_consumer_openfeign_hystrix_order8000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_consumer_order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_eureka_server7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_eureka_server7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_gateway_gateway9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_hystrix_dashboard9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_provider_hystrix_payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_provider_payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_provider_payment8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_provider_payment8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coloud_config_server3344" charset="UTF-8" />
+  </component>
+</project>
